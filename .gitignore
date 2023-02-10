@@ -1,0 +1,25 @@
+# dependencies
+/vendor/bundle
+/node_modules
+
+# backups
+*.bak
+
+# system files
+*.log
+*.pid
+*.DS_Store
+.env
+.env.test
+.env.production
+.env.development
+.idea
+
+# build files
+/public/assets
+/public/packs
+/tmp
+/public/packs-test
+
+#cache
+/tmp/cache
